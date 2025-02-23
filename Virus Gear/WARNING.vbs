@@ -1,0 +1,1 @@
+X=MsgBox("This is a fake virus, so don't assume it's real!", 0+64, "WARNING!")

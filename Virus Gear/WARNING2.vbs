@@ -1,0 +1,1 @@
+X=MsgBox("your pc die in 1 minute", vbOKOnly+vbCritical, "DIEDIEDIEDIEDIEDIEDIE")
